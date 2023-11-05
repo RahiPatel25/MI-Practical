@@ -1,0 +1,1 @@
+enum ServerRequestType { get }
