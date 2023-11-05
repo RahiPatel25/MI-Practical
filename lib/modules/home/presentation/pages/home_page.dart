@@ -17,9 +17,7 @@ class Home extends StatelessWidget {
       ],
       child: const Scaffold(
         backgroundColor: Colors.white,
-        body: SafeArea(
-          child: HomeMobileView(),
-        ),
+        body: HomeMobileView(),
       ),
     );
   }
